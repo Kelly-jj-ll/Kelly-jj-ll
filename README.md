@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kelly-jj-ll
-- 👀 I’m interested in Big Data/Fintech
+- 👀 I’m interested in Big Data/Fintech/Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jukunlu@qq.com
