@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kelly-jj-ll
-- 👀 I’m interested in Big Data/Fintech/Machine Learning
+- 👀 I’m interested in AI applications in Finance
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me jukunlu@gmail.com
 
